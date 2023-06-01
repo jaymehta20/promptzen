@@ -26,9 +26,9 @@ const Nav = () => {
           src="/assets/images/logo.svg"
           width={30}
           height={30}
-          alt="Promptopia Logo"
+          alt="Promptzen Logo"
         />
-        <p className="logo_text">Promptopia</p>
+        <p className="logo_text">Promptzen</p>
       </Link>
 
       {/* Desktop Navigation */}

@@ -3,7 +3,7 @@ import React from 'react';
 
 const Form = ({ type, post, setPost, submitting, handleSubmit }) => {
   return (
-    <section className="w-full max-w-full flex-start flex-col">
+    <section className="w-full max-w-full flex-start flex-col mb-12">
       <h1 className="head_text text_left">
         <span className="blue_gradient">{type} Post</span>
       </h1>
